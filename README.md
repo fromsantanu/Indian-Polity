@@ -19,7 +19,7 @@
    - [Directive Principles of State Policy (Articles 36-51)](#)
    - [Fundamental Duties (Article 51A)](#)
 
-### 5. **Union Government**](#)
+### 5. [**Union Government**](#)
    - [President of India: Powers and Functions](#)
    - [Vice President: Role and Responsibilities](#)
    - [Prime Minister and Council of Ministers: Formation, Powers, and Functions](#)
