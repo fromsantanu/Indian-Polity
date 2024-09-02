@@ -1,4 +1,4 @@
-# Indian-Polity
+# Indian-Polity ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### 1. [**Introduction to Indian Polity**](#)
    - [Definition and Scope](#)
